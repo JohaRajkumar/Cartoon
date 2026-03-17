@@ -1,0 +1,9 @@
+streamlit
+Pillow
+opencv-python
+numpy
+pytest
+razorpay
+python-dotenv
+scikit-learn
+reportlab

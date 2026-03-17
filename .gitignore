@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.venv_mac/
+app.db
+uploads/
+output/
+sample_success_invoice.pdf
+generate_sample_invoice.py
+pages/*.bak
